@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0e0e0f"/>
+      <stop offset="100%" stop-color="#1b1b1f"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#9a7b3f"/>
+      <stop offset="50%" stop-color="#f7d774"/>
+      <stop offset="100%" stop-color="#9a7b3f"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#g)"/>
+  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" font-size="80" fill="#f1e5c8" font-family="Georgia,serif">The Wedding of</text>
+  <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle" font-size="120" fill="url(#gold)" font-family="Georgia,serif">Syafii &amp; Carera</text>
+</svg>
